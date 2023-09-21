@@ -1,0 +1,5 @@
+/home/wwt/vscode_test/build/CMakeFiles/rebuild_cache.dir
+/home/wwt/vscode_test/build/CMakeFiles/edit_cache.dir
+/home/wwt/vscode_test/build/CMakeFiles/epoll_test.dir
+/home/wwt/vscode_test/build/CMakeFiles/client_test.dir
+/home/wwt/vscode_test/build/CMakeFiles/pthread_test.dir

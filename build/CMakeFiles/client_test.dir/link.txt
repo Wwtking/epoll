@@ -1,0 +1,1 @@
+/usr/bin/c++   -rdynamic -O3 -g -std=c++11 -Wall -Wno-deprecated -Wno-unused-function -Wno-builtin-macro-redefined  -rdynamic CMakeFiles/client_test.dir/client.cpp.o  -o client_test 
